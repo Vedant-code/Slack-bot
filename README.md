@@ -1,6 +1,6 @@
-#Software Developer Intern: Assignment
+#Software Developer Intern: Assignment#
 
-###You will create a Slack app in Javascript or Python with the following requirements:
+You will create a Slack app in Javascript or Python with the following requirements:
 1. Create a new Slack workspace with two channels named “Channel 1” and “Channel 2”
 2. Create a slash command [https://api.slack.com/interactivity/slash-commands] “/forward”
 to echo any message sent in Channel 1 to Channel 2 in upper case. For example, if the
